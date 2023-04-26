@@ -6,7 +6,7 @@ First, install dependencies:
 npm install react next react-router
 npm i create-next-app
 ```
-First, run the development server:
+run the development server:
 
 ```bash
 npm run dev
